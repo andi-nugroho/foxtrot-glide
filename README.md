@@ -1,73 +1,109 @@
-# Welcome to your Lovable project
+# 🚀 Foxtrot Glide – Build Modern Web Experiences Fast
 
-## Project info
+Welcome to **Foxtrot Glide**, a modern, responsive, and high-performance web application starter built to help developers and businesses **launch web projects with speed and style**.
+Crafted with cutting-edge technologies and clean UI principles, this project ensures **speed, scalability, and a seamless user experience**.
 
-**URL**: https://lovable.dev/projects/a5c845bd-b63e-4916-b06a-ef69403d44f8
+---
 
-## How can I edit this code?
+## 🌐 Live Demo
 
-There are several ways of editing your application.
+👉 [View Foxtrot Glide](https://lovable.dev/projects/a5c845bd-b63e-4916-b06a-ef69403d44f8)
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a5c845bd-b63e-4916-b06a-ef69403d44f8) and start prompting.
+## ✨ Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- ⚡ **Blazing Fast** – Powered by Vite & React for lightning-fast builds and runtime.
+- 🧩 **Modular Architecture** – Clean structure with reusable components for rapid development.
+- 📱 **Responsive Design** – Mobile-first, optimized for all screen sizes.
+- 🎨 **Elegant UI** – Styled with Tailwind CSS & shadcn/ui for a modern look and feel.
+- 🔐 **Best Practices** – Built with performance, security, and scalability in mind.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This project leverages the power of modern frontend tools:
 
-Follow these steps:
+- ⚙️ **Vite** – Next-gen frontend tooling for ultra-fast development
+- ⚛️ **React** – Component-based UI library
+- 📘 **TypeScript** – Type-safe code for fewer bugs and better maintainability
+- 🎨 **Tailwind CSS** – Utility-first CSS for rapid and responsive design
+- 🧪 **shadcn/ui** – Accessible and customizable UI components
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🧑‍💻 Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+Follow these steps to run **Foxtrot Glide** locally:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+# 1️⃣ Clone this repository
+git clone https://github.com/andi-nugroho/foxtrot-glide.git
+
+# 2️⃣ Navigate into the project folder
+cd foxtrot-glide
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📦 Project Structure
+```bash
+foxtrot-glide/
+├─ src/
+│  ├─ components/      # Reusable UI components
+│  ├─ pages/           # Page components (Home, About, Pricing, etc.)
+│  ├─ assets/          # Images, icons, and static assets
+│  ├─ hooks/           # Custom React hooks
+│  └─ lib/             # Utilities and helpers
+├─ public/             # Static public files
+├─ package.json
+├─ vite.config.ts
+└─ README.md
+```
 
-**Use GitHub Codespaces**
+## 🌍 Deployment
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+You can deploy **Foxtrot Glide** easily on platforms like:
 
-## What technologies are used for this project?
+- [Vercel](https://vercel.com) – **Recommended 🚀**
+- [Netlify](https://www.netlify.com)
+- [GitHub Pages](https://pages.github.com)
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## ⚙️ Custom Domain
 
-## How can I deploy this project?
+To connect a custom domain:
 
-Simply open [Lovable](https://lovable.dev/projects/a5c845bd-b63e-4916-b06a-ef69403d44f8) and click on Share -> Publish.
+1. Go to **Project → Settings → Domains**
+2. Click **"Connect Domain"**
+3. Follow the steps to point your DNS records 🌐
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 🤝 Contributing
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Contributions, issues, and feature requests are highly appreciated! 🙌
+Feel free to fork this project and submit a pull request to help improve Foxtrot Glide.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+
+## 🧑‍💻 Author
+
+**GitHub:** [@andi-nugroho](https://github.com/andi-nugroho)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.
+
+---
+
+🔥 **Foxtrot Glide** – Build fast. Deploy faster. Deliver unforgettable web experiences.
